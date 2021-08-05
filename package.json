@@ -14,8 +14,8 @@
   "dependencies": {
     "@ihealth/ihealthlibrary-react-native": "1.4.8-beta4",
     "lodash": "^4.17.11",
-    "react": "16.11.0",
-    "react-native": "0.62.2",
+    "react": "17.0.1",
+    "react-native": "0.64.2",
     "react-native-elements": "^1.1.0",
     "react-native-gesture-handler": "^1.2.1",
     "react-native-screens": "^2.8.0",
