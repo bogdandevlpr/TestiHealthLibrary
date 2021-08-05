@@ -17,9 +17,7 @@
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* TestiHealthLibraryTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* TestiHealthLibraryTests.m */; };
-		6060986D8AECA3FAD3D1CB46 /* libPods-TestiHealthLibrary-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C4758D5205ABEF502D75D473 /* libPods-TestiHealthLibrary-tvOS.a */; };
 		946B02D627E685E712044CD5 /* libPods-TestiHealthLibrary-TestiHealthLibraryTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7354B6ECB2995E4ED4218183 /* libPods-TestiHealthLibrary-TestiHealthLibraryTests.a */; };
-		C6CA4FBD301B9707738A9811 /* libPods-TestiHealthLibrary-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 611B3BAC92CE3EBB3A42E1D6 /* libPods-TestiHealthLibrary-tvOSTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,17 +54,11 @@
 		3989F9D01AD491A09BB9A65F /* Pods-TestiHealthLibrary.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestiHealthLibrary.debug.xcconfig"; path = "Target Support Files/Pods-TestiHealthLibrary/Pods-TestiHealthLibrary.debug.xcconfig"; sourceTree = "<group>"; };
 		4D02AD62CD63E330C7C9FD14 /* Pods-TestiHealthLibrary-TestiHealthLibraryTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestiHealthLibrary-TestiHealthLibraryTests.release.xcconfig"; path = "Target Support Files/Pods-TestiHealthLibrary-TestiHealthLibraryTests/Pods-TestiHealthLibrary-TestiHealthLibraryTests.release.xcconfig"; sourceTree = "<group>"; };
 		4E56CF384B687E33727A9C73 /* Pods-TestiHealthLibrary-TestiHealthLibraryTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestiHealthLibrary-TestiHealthLibraryTests.debug.xcconfig"; path = "Target Support Files/Pods-TestiHealthLibrary-TestiHealthLibraryTests/Pods-TestiHealthLibrary-TestiHealthLibraryTests.debug.xcconfig"; sourceTree = "<group>"; };
-		611B3BAC92CE3EBB3A42E1D6 /* libPods-TestiHealthLibrary-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TestiHealthLibrary-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6728CEC75D75D16E53F3ACCB /* Pods-TestiHealthLibrary-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestiHealthLibrary-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-TestiHealthLibrary-tvOSTests/Pods-TestiHealthLibrary-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		7354B6ECB2995E4ED4218183 /* libPods-TestiHealthLibrary-TestiHealthLibraryTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TestiHealthLibrary-TestiHealthLibraryTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		88199CE339ED20C45E09B238 /* Pods-TestiHealthLibrary.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestiHealthLibrary.release.xcconfig"; path = "Target Support Files/Pods-TestiHealthLibrary/Pods-TestiHealthLibrary.release.xcconfig"; sourceTree = "<group>"; };
-		C4758D5205ABEF502D75D473 /* libPods-TestiHealthLibrary-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TestiHealthLibrary-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E122DCEAC9F86663D43F4A8F /* libPods-TestiHealthLibrary.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TestiHealthLibrary.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
-		F3E4814F43F86101E55AEF56 /* Pods-TestiHealthLibrary-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestiHealthLibrary-tvOS.release.xcconfig"; path = "Target Support Files/Pods-TestiHealthLibrary-tvOS/Pods-TestiHealthLibrary-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		FAE430D5E4BFC5BF7A094B54 /* Pods-TestiHealthLibrary-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestiHealthLibrary-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-TestiHealthLibrary-tvOS/Pods-TestiHealthLibrary-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		FF5EF47419C171DA87279650 /* Pods-TestiHealthLibrary-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestiHealthLibrary-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-TestiHealthLibrary-tvOSTests/Pods-TestiHealthLibrary-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,7 +82,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6060986D8AECA3FAD3D1CB46 /* libPods-TestiHealthLibrary-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,7 +89,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C6CA4FBD301B9707738A9811 /* libPods-TestiHealthLibrary-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -143,8 +133,6 @@
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
 				E122DCEAC9F86663D43F4A8F /* libPods-TestiHealthLibrary.a */,
 				7354B6ECB2995E4ED4218183 /* libPods-TestiHealthLibrary-TestiHealthLibraryTests.a */,
-				C4758D5205ABEF502D75D473 /* libPods-TestiHealthLibrary-tvOS.a */,
-				611B3BAC92CE3EBB3A42E1D6 /* libPods-TestiHealthLibrary-tvOSTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -156,10 +144,6 @@
 				88199CE339ED20C45E09B238 /* Pods-TestiHealthLibrary.release.xcconfig */,
 				4E56CF384B687E33727A9C73 /* Pods-TestiHealthLibrary-TestiHealthLibraryTests.debug.xcconfig */,
 				4D02AD62CD63E330C7C9FD14 /* Pods-TestiHealthLibrary-TestiHealthLibraryTests.release.xcconfig */,
-				FAE430D5E4BFC5BF7A094B54 /* Pods-TestiHealthLibrary-tvOS.debug.xcconfig */,
-				F3E4814F43F86101E55AEF56 /* Pods-TestiHealthLibrary-tvOS.release.xcconfig */,
-				FF5EF47419C171DA87279650 /* Pods-TestiHealthLibrary-tvOSTests.debug.xcconfig */,
-				6728CEC75D75D16E53F3ACCB /* Pods-TestiHealthLibrary-tvOSTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -209,6 +193,7 @@
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
 				5FF7B0AEA832A996F77DBDED /* [CP] Copy Pods Resources */,
+				FC2EB6075A440817364EDC18 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -231,6 +216,7 @@
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
 				15DD09968118D014E654FAC6 /* [CP] Copy Pods Resources */,
+				1E3AE4D920FB38E95A3621F9 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -245,7 +231,6 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "TestiHealthLibrary-tvOS" */;
 			buildPhases = (
-				FF51489111B9A7DF3C726BF8 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
 				2D02E4771E0B4A5D006451C7 /* Sources */,
 				2D02E4781E0B4A5D006451C7 /* Frameworks */,
@@ -265,7 +250,6 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "TestiHealthLibrary-tvOSTests" */;
 			buildPhases = (
-				9C46092EB557A57F9FB3FB60 /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
 				2D02E48D1E0B4A5D006451C7 /* Frameworks */,
 				2D02E48E1E0B4A5D006451C7 /* Resources */,
@@ -293,7 +277,7 @@
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
 					13B07F861A680F5B00A75B9A = {
-						DevelopmentTeam = W9CDF5WPUA;
+						DevelopmentTeam = 8982T47U8J;
 						LastSwiftMigration = 1120;
 					};
 					2D02E47A1E0B4A5D006451C7 = {
@@ -399,6 +383,7 @@
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Octicons.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
+				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
@@ -417,10 +402,29 @@
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Octicons.ttf",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SimpleLineIcons.ttf",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Zocial.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-TestiHealthLibrary/Pods-TestiHealthLibrary-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		1E3AE4D920FB38E95A3621F9 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-TestiHealthLibrary/Pods-TestiHealthLibrary-frameworks.sh",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL/OpenSSL.framework/OpenSSL",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/OpenSSL.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-TestiHealthLibrary/Pods-TestiHealthLibrary-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		2A6E42580D4DDCCD2969325F /* [CP] Check Pods Manifest.lock */ = {
@@ -503,6 +507,7 @@
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Octicons.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
+				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
@@ -521,32 +526,29 @@
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Octicons.ttf",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SimpleLineIcons.ttf",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Zocial.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-TestiHealthLibrary-TestiHealthLibraryTests/Pods-TestiHealthLibrary-TestiHealthLibraryTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		9C46092EB557A57F9FB3FB60 /* [CP] Check Pods Manifest.lock */ = {
+		FC2EB6075A440817364EDC18 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
+				"${PODS_ROOT}/Target Support Files/Pods-TestiHealthLibrary-TestiHealthLibraryTests/Pods-TestiHealthLibrary-TestiHealthLibraryTests-frameworks.sh",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL/OpenSSL.framework/OpenSSL",
 			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
+			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-TestiHealthLibrary-tvOSTests-checkManifestLockResult.txt",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/OpenSSL.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-TestiHealthLibrary-TestiHealthLibraryTests/Pods-TestiHealthLibrary-TestiHealthLibraryTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -585,28 +587,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "export RCT_METRO_PORT=\"${RCT_METRO_PORT:=8081}\"\necho \"export RCT_METRO_PORT=${RCT_METRO_PORT}\" > \"${SRCROOT}/../node_modules/react-native/scripts/.packager.env\"\nif [ -z \"${RCT_NO_LAUNCH_PACKAGER+xxx}\" ] ; then\n  if nc -w 5 -z localhost ${RCT_METRO_PORT} ; then\n    if ! curl -s \"http://localhost:${RCT_METRO_PORT}/status\" | grep -q \"packager-status:running\" ; then\n      echo \"Port ${RCT_METRO_PORT} already in use, packager is either not running or not running correctly\"\n      exit 2\n    fi\n  else\n    open \"$SRCROOT/../node_modules/react-native/scripts/launchPackager.command\" || echo \"Can't start packager automatically\"\n  fi\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		FF51489111B9A7DF3C726BF8 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-TestiHealthLibrary-tvOS-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -724,7 +704,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = W9CDF5WPUA;
+				DEVELOPMENT_TEAM = 8982T47U8J;
 				ENABLE_BITCODE = NO;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"$(inherited)",
@@ -752,7 +732,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = W9CDF5WPUA;
+				DEVELOPMENT_TEAM = 8982T47U8J;
 				INFOPLIST_FILE = TestiHealthLibrary/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -769,7 +749,6 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FAE430D5E4BFC5BF7A094B54 /* Pods-TestiHealthLibrary-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -797,7 +776,6 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F3E4814F43F86101E55AEF56 /* Pods-TestiHealthLibrary-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -825,7 +803,6 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FF5EF47419C171DA87279650 /* Pods-TestiHealthLibrary-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -852,7 +829,6 @@
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6728CEC75D75D16E53F3ACCB /* Pods-TestiHealthLibrary-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -909,6 +885,7 @@
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "arm64 ";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -969,6 +946,7 @@
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "arm64 ";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
